@@ -1,2 +1,11 @@
-<script src="https://s13.cnzz.com/z_stat.php?id=1263907350&web_id=1263907350" language="JavaScript"></script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?54f20fd7190f4e1f82074f1fd0749804";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
 # test
